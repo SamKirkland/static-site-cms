@@ -1,0 +1,34 @@
+{
+    "site": {
+        "companyName": "Example Company",
+        "url": "static-site.samkirkland.com",
+        "theme": "forest",
+        "logo": "https://create-react-app.dev/img/logo.svg"
+    },
+    "pages": [
+        {
+            "title": "Home",
+            "url": "/home",
+            "uniqueId": 1123151,
+            "template": "showcase",
+            "content": [
+                {
+                    "type": "markdown",
+                    "value": "this is some text"
+                }
+            ]
+        },
+        {
+            "title": "About Us",
+            "url": "/about",
+            "uniqueId": 6343678885,
+            "template": "about",
+            "content": [
+                {
+                    "type": "markdown",
+                    "value": "this is some text"
+                }
+            ]
+        }
+    ]
+}
