@@ -1,6 +1,5 @@
 /* eslint-disable jsx-a11y/heading-has-content */
 import React from 'react';
-import 'antd/dist/antd.css';
 import { useSiteSettingsForm } from './UseGlobalForm';
 import { BrowserRouter as Router } from "react-router-dom";
 import { MainNav } from './MainNav';
