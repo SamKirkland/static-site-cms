@@ -25,4 +25,3 @@ jobs:
         username: static-site-cms@static-site-cms.samkirkland.com
         password: ${{ secrets.FTP_PASSWORD }}
         local-dir: build/
-
