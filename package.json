@@ -17,7 +17,7 @@
     "typescript": "^3.7.5",
     "tinacms": "0.19.3",
     "react-tinacms-inline": "0.4.8",
-    "moment": "2.24.0",
+    "moment": "2.29.4",
     "styled-components": "5.1.0",
     "react-markdown": "4.3.1",
     "react-router": "5.1.2",
